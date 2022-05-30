@@ -30,8 +30,8 @@
 - Under Authentication -> Users, add a new user.
 - In Project Overview, create a new web app for your project.
 - Copy the credentials to `firebase/client.js`.
-- In Project Overview -> Service accounts, Generate a new private key.
-- Copy the generated key file it to the root of the project folder.
-- Rename the private key JSON to secret-key.json.
+- In Project Overview -> Service accounts, generate a new private key.
+- Copy the generated key file to the root of the project folder.
+- Rename the private key JSON to `secret-key.json`.
 - If done correctly, you should be able to run `npm run dev`, and log in with protected routes
   enabled.

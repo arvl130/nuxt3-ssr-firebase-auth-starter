@@ -2,7 +2,7 @@
 
 - This project is a starter template for Nuxt 3 projects using Firebase Authentication.
   It uses [ID tokens](https://firebase.google.com/docs/auth/admin/manage-sessions)
-  provided by Firebase which are then saved as cookies to handle authentication and route
+  provided by Firebase which are then saved as cookies to handle authorization and route
   protection.
 
 - It builds on top of wobsoriano's

@@ -1,9 +1,9 @@
 # Nuxt 3 SSR Firebase Auth Starter using ID Tokens
 
 - This project is a starter template for Nuxt 3 projects using Firebase Authentication.
-
-- It uses ID tokens provided by Firebase which are then saved as cookies to handle
-  authentication and route protection.
+  It uses [ID tokens](https://firebase.google.com/docs/auth/admin/manage-sessions)
+  provided by Firebase which are then saved as cookies to handle authentication and route
+  protection.
 
 - It builds on top of wobsoriano's
   [Nuxt 3 SSR Firebase Auth starter](https://github.com/wobsoriano/nuxt-firebase-auth-starter)
